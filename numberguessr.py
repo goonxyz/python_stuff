@@ -1,4 +1,5 @@
-# A guess the number game with three different gamemodes. 
+# A guess the number game with three different gamemodes.
+# Inspired by page 50 of Automate the Boring Stuff With Python by Al Sweigart
 import random
 
 # This initializes the start of the game and asks for a gamemode. It will initialize whichever gamemode function is selected.
